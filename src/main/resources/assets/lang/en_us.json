@@ -1,1 +1,18 @@
-nothing here
+{
+  "block.treerific.stonewood_stairs": "Stonewood Stairs",
+  "block.treerific.stonewood_slab": "Stonewood Slab",
+  "block.treerific.stonewood_fence": "Stonewood Fence",
+  "block.treerific.stonewood_fence_gate": "Stonewood Fence Gate",
+  "block.treerific.stonewood_door": "Stonewood Door",
+  "block.treerific.stonewood_trapdoor": "Stonewood Trapdoor",
+  "block.treerific.stonewood_wall": "Stonewood Wall",
+  "block.treerific.stonewood_button": "Stonewood Button",
+  "block.treerific.stonewood_pressure_plate": "Stonewood Pressure Plate",
+  "block.treerific.stonewood_log": "Stonewood Log",
+  "block.treerific.stonewood_planks": "Stonewood Planks",
+  "block.treerific.stonewood_wood": "Stonewood Wood",
+  "block.treerific.stripped_stonewood_log": "Stripped Stonewood Log",
+  "block.treerific.stripped_stonewood_wood": "Stripped Stonewood Wood",
+  "block.treerific.stonewood_leaves": "Stonewood Leaves",
+  "block.treerific.stonewood_sapling": "Stonewood Sapling",
+}
